@@ -1,0 +1,14 @@
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\bin\Debug\net10.0\Exercise 2.exe
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\bin\Debug\net10.0\Exercise 2.deps.json
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\bin\Debug\net10.0\Exercise 2.runtimeconfig.json
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\bin\Debug\net10.0\Exercise 2.dll
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\bin\Debug\net10.0\Exercise 2.pdb
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.AssemblyInfoInputs.cache
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.AssemblyInfo.cs
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.csproj.CoreCompileInputs.cache
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.dll
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\refint\Exercise 2.dll
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.pdb
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\Exercise 2.genruntimeconfig.cache
+d:\Cognizant\Week 1\Design Patterns And Principles\Exercise 2\obj\Debug\net10.0\ref\Exercise 2.dll

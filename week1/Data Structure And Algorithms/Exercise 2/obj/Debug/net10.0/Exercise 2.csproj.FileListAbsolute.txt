@@ -1,0 +1,14 @@
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\bin\Debug\net10.0\Exercise 2.exe
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\bin\Debug\net10.0\Exercise 2.deps.json
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\bin\Debug\net10.0\Exercise 2.runtimeconfig.json
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\bin\Debug\net10.0\Exercise 2.dll
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\bin\Debug\net10.0\Exercise 2.pdb
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.AssemblyInfoInputs.cache
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.AssemblyInfo.cs
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.csproj.CoreCompileInputs.cache
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.dll
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\refint\Exercise 2.dll
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.pdb
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\Exercise 2.genruntimeconfig.cache
+D:\Cognizant\Week 1\Data Structure And Algorithms\Exercise 2\obj\Debug\net10.0\ref\Exercise 2.dll
